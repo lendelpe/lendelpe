@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm George Lendel Pe</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+![Header](./header.png)
 <img src="https://images.playground.com/a5a7f018cf7942eda56841879934f318.jpeg" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lendelpe&label=Profile%20views&color=0e75b6&style=flat" alt="lendelpe" /> </p>
